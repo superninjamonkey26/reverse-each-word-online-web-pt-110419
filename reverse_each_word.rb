@@ -4,5 +4,6 @@ def reverse_each_word(array)
   return reversed_array.join(" ")
 end
 
-def
+def reverse_each_word(array)
+  
 end
