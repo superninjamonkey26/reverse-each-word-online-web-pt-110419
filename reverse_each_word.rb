@@ -4,7 +4,5 @@ def reverse_each_word(array)
   return reversed_array.join(" ")
 end
 
-
-#def reverssentence| sentence.reverse!}
-#  return reversed_array.join(" ")
-#end
+def
+end
