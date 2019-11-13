@@ -3,5 +3,6 @@ def reverse_each_word(string)
   #reversed = []
   reversed_string = split_string.eacg {|sentence| sentence.reverse!}
  # string.size.times { reversed << split_string.pop }
+  return reverse_each_word.join(" ")
 end
-puts reverse_each_word.join(" ")
+#puts reverse_each_word.join(" ")
